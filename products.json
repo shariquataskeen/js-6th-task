@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name":" Vivo Y11",
+        "price": 200,
+        "image": "phone10.png"
+    },
+    {
+        "id": 2,
+        "name":" Vivo Y18i",
+        "price": 250,
+        "image": "phone11.png"
+    },
+    {
+        "id": 3,
+        "name":" Vivo Y21",
+        "price": 290,
+        "image": "phone12.png"
+    },
+    {
+        "id": 4,
+        "name":" iPhone 16 Pro",
+        "price": 200,
+        "image": "phone4.png"
+    },
+    {
+        "id": 5,
+        "name":" Samsung Galaxy ",
+        "price": 300,
+        "image": "phone5.png"
+    },
+    {
+        "id": 6,
+        "name":" iPhone 16 Plus ",
+        "price": 200,
+        "image": "phone6.png"
+    },
+    {
+        "id": 7,
+        "name":"Samsung S24 Ultra",
+        "price": 200,
+        "image": "phone7.png"
+    },
+    {
+        "id": 8,
+        "name":" Oppo K12x 5G",
+        "price": 200,
+        "image": "phone8.png"
+    },
+    {
+        "id": 9,
+        "name":" Vivo Y21i",
+        "price": 300,
+        "image": "phone9.png"
+    },
+    {
+        "id": 10,
+        "name":" Vivo Y28s 5G",
+        "price": 250,
+        "image": "phone1.png"
+    },
+    {
+        "id": 11,
+        "name":" iPhone 16 Pro",
+        "price": 350,
+        "image": "phone2.png"
+    },
+    {
+        "id": 12,
+        "name":" OnePlus 9RT 5G",
+        "price": 200,
+        "image": "phone3.png"
+    }
+
+]
